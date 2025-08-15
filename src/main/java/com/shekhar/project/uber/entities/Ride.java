@@ -46,4 +46,3 @@ public class Ride {
 
     private LocalDateTime rideEndTime;
 }
-
